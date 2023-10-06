@@ -1,4 +1,4 @@
-# MachinLearning_FinalProject
+# MachineLearning_FinalProject
 My final project for the Machine Learning course.
 
 Dataset downloaded from : https://archive.ics.uci.edu/ml/datasets/Census+Income.
